@@ -1,10 +1,11 @@
 var authConfig = {
   version: "1.0.1-fix1",
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
-  client_id: '', // Google Client ID
-  client_secret: '', // Google Client Secret
-  refresh_token: '', // Refresh token
-  domain: "GTB", //College name to display
+ 	client_id: '58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com',
+	client_secret: 'ZNPZ-vS6N9Zjsyb_sNMZmXHL',
+	refresh_token: 'uu',
+	
+  domain: "MAHIR", //College name to display
   black_list: ["example@gmail.com"]
 };
 
@@ -20,8 +21,8 @@ var html = `
     <title>Create Google Shared Drive</title>
     <meta name="robots" content="noindex">
     <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS/icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS/icons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://icons.iconarchive.com/icons/uiconstock/e-commerce/32/e-commerce-icon-icon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://icons.iconarchive.com/icons/uiconstock/e-commerce/16/e-commerce-icon-icon.png">
     <link rel="mask-icon" href="https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS/icons/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
@@ -87,7 +88,8 @@ var html = `
                                         </div>
                                         <br />
                                         <center>
-                                            <button type="submit" class="btn btn-primary">Submit</button> <a class="btn btn-danger" href="https://github.com/ParveenBhadooOfficial" role="button">Logout</a> <a class="btn btn-info" href="https://github.com/ParveenBhadooOfficial/Create-Google-Shared-Drive/blob/master/README.md#credits" role="button">Credits</a></center>
+                                            <button type="submit" class="btn btn-primary">Submit</button> 
+                                        </center>
                                     </form>
                                 </div>
                             </div>
