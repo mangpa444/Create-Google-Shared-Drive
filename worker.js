@@ -3,7 +3,7 @@ var authConfig = {
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
  	client_id: '58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com',
 	client_secret: 'ZNPZ-vS6N9Zjsyb_sNMZmXHL',
-	refresh_token: 'uu',
+	refresh_token: 'dontcopyeverything',
 	
   domain: "MAHIR", //College name to display
   black_list: ["example@gmail.com"]
