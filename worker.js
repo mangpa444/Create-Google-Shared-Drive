@@ -36,7 +36,7 @@ var html = `
 <body style="background-image: url('https://cdn.jsdelivr.net/gh/ParveenBhadooOfficial/BhadooJS@1.0.12/images/bg-01.jpg');">
     <br>
     <center>
-        <a href="/"><img border="0" alt="Hash Hackers" src="https://cdn.jsdelivr.net/gh/HashHackers/logo/logo-white-d.svg" height="25px"></a>
+        <a href="/"><img border="0" alt="MAHIRS_" src="https://cdn.jsdelivr.net/gh/HashHackers/logo@master/logo-a.svg" height="25px"></a>
         <br>
         <br>
     </center>
